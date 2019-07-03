@@ -13,7 +13,7 @@ as long as you install
 [Buildship](https://marketplace.eclipse.org/content/buildship-gradle-integration). Note
 that STS 4 comes with Buildship preinstalled.
 
-## Steps
+## Steps 
 
 _Within your locally cloned `spring-framework` working directory:_
 
